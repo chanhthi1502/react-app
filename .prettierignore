@@ -7,3 +7,4 @@ ci.yml
 App.css
 index.css
 manifest.json
+release.config.js
